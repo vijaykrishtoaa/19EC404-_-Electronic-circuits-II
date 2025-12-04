@@ -14,10 +14,12 @@
 
 # Tabulation
 
-![Uploading WhatsApp Image 2025-12-04 at 13.25.46_4bb4560e.jpg…]()
+![WhatsApp Image 2025-12-04 at 13 25 40_cc6c0ca8](https://github.com/user-attachments/assets/ac32b2f9-d2c4-470c-89cc-80131aca06e9)
+
 
 # Graph
-![WhatsApp Image 2025-12-04 at 13 25 40_eabbc247](https://github.com/user-attachments/assets/6662a323-c455-421c-802b-0deda117eb01)
+![WhatsApp Image 2025-12-04 at 13 25 46_a1f12b42](https://github.com/user-attachments/assets/a577c294-c432-477f-ac11-735cf7e964bd)
+
 
 
 # Sample images 
