@@ -13,25 +13,26 @@
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
 ## Tabulation
+![WhatsApp Image 2025-12-04 at 12 54 30_4229d275](https://github.com/user-attachments/assets/86dccfab-9a13-4cc9-9352-3167e351a28e)
 
 
 ## Graph
+![WhatsApp Image 2025-12-04 at 12 54 31_0e9ee41b](https://github.com/user-attachments/assets/ce8cd547-0c5d-4ee9-9122-876c95ef5a96)
 
 
 ## Sample images 
+![WhatsApp Image 2025-12-04 at 12 54 31_af16103a](https://github.com/user-attachments/assets/860760c6-691b-4baa-867e-8e1c57f1ab35)
 
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
 The following parameters are calculated:
-
-| S.No | Parameters | Without Feedback | With Feedback |
-|:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+S.No	Parameters	Without Feedback	With Feedback
+1	Lower cut-off frequency	0.28kHz	0.24kHz
+2	Upper cut-off frequency	1.4MHz	2.7MHz
+3	Bandwidth	( BW = fh - fl = 1.39MHz )	( BW = f'h - f'l = 2.6MHz)
+4	Mid-band Gain	( A{v(mid)} = 21)	( A'{v(mid)} =17.04 )
+5	Gain at half power point	14.84	12.08
 ---
 **Conclusion:**  
 The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
